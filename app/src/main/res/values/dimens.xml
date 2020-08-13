@@ -9,6 +9,7 @@
     <dimen name="size_small_24">24dp</dimen>
     <dimen name="size_small_56">56dp</dimen>
     <dimen name="size_small_72">72dp</dimen>
+    <dimen name="size_small_83">83dp</dimen>
 
     <!--Spaces-->
     <dimen name="spacing_small_8">8dp</dimen>
